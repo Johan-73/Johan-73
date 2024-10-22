@@ -1,3 +1,9 @@
+# 🌐 Switch language
+
+- [Versión en Español](README.es.md)
+
+---
+
 # 👋 Hello! I'm Johan
 
 I’m an **Software Developer in Training** currently in the 3rd year of my **Software Developer career**. I am familiar with backend development and am passionate about leveraging technology to solve business challenges.
